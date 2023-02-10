@@ -1,6 +1,6 @@
 # obj23dtiles-Java
 
-基于JAVA语言实现OBJ模型转换输出3d-tiles
+基于JAVA语言实现OBJ模型转换输出3d-tiles  
 作者：59135929@qq.com
 
 制作模型的很多款软件，都可以将模型存储为obj格式。为了使用Ceium可以访问obj模型，包括CesiumLab在内的转换工具，可以将obj格式转换为3d-tiles格式的数据集。
